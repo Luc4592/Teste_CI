@@ -1,4 +1,4 @@
-neme: Teste1
+name: Teste1
 on: [push]
 
 jobs: 
