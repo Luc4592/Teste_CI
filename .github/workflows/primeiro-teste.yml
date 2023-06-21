@@ -1,0 +1,10 @@
+neme: Teste1
+on: [push]
+
+jobs: 
+  run-shell-command:
+    runs-on: umbuntu-latest
+    steps:
+      - name: Echo a String
+        run: echo "Testeando o orimeiro bild"
+
